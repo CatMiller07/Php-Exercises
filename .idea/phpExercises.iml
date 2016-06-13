@@ -7,20 +7,22 @@
     <orderEntry type="module-library">
       <library name="PHP">
         <CLASSES>
-          <root url="file://E:/xampp/php" />
+          <root url="file://C:/wamp64/bin/php/php5.6.16" />
         </CLASSES>
         <SOURCES>
-          <root url="file://E:/xampp/php" />
+          <root url="file://C:/wamp64/bin/php/php5.6.16" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar://E:/xampp/php/pharcommand.phar/" />
+          <root url="phar://C:/wamp64/bin/php/php5.6.16/pharcommand.phar/" />
+          <root url="phar://C:/wamp64/bin/php/php5.6.16/composer.phar/" />
         </CLASSES>
         <SOURCES>
-          <root url="phar://E:/xampp/php/pharcommand.phar/" />
+          <root url="phar://C:/wamp64/bin/php/php5.6.16/pharcommand.phar/" />
+          <root url="phar://C:/wamp64/bin/php/php5.6.16/composer.phar/" />
         </SOURCES>
       </library>
     </orderEntry>
